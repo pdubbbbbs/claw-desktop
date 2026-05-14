@@ -1,0 +1,8 @@
+{
+  "identifier": "default",
+  "description": "Minimal permissions for Claw Command Deck",
+  "windows": ["main"],
+  "permissions": [
+    "core:default"
+  ]
+}
